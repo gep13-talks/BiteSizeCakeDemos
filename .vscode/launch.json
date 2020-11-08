@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Cake Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "~/.dotnet/tools/dotnet-cake",
+      "windows": {
+        "program": "dotnet-cake.exe"
+      },
+      "args": [
+        "build.cake",
+        "--debug"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "stopAtEntry": true
+    }
+  ]
+}
