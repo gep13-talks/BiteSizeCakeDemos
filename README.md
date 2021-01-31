@@ -1,5 +1,7 @@
 # Bite Size Cake Demos
 
+This is a trimmed down version of the [more complete Cake talk](https://github.com/gep13-talks/CakeDemos) that I have given a number of times in the past.
+
 In this session we will start with a standard .NET Solution and incrementally add a build and orchestration script to compile the application, run unit tests, perform static analysis, package the application, and more, with the C# skills that you already have, using the Cake Build Automation System.
 
 ## Presentations
