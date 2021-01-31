@@ -330,3 +330,5 @@ ASALocalRun/
 .mfractor/
 
 omnisharp.json
+
+.DS_Store
