@@ -6,9 +6,9 @@ In this session we will start with a standard .NET Solution and incrementally ad
 
 Below, you will find information about the different times that this talk has been presented, along with links to different information for the session.
 
-| Date                     | Conference/User Group                         | Code                                                                                               | Slides                                                                                                                   |
-|--------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| 14th November 20201      | [.NET Conf 2020](https://www.dotnetconf.net/) | [dotnetconf2020 tag](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/tag/dotnetconf2020) | [PowerPoint Deck](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx |
+| Date                     | Conference/User Group                         | Code                                                                                               | Slides                                                                                                                    |
+|--------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 14th November 20201      | [.NET Conf 2020](https://www.dotnetconf.net/) | [dotnetconf2020 tag](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/tag/dotnetconf2020) | [PowerPoint Deck](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) |
 
 ## Recordings
 
