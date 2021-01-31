@@ -10,7 +10,7 @@ Below, you will find information about the different times that this talk has be
 
 | Date                    | Conference/User Group                         | Code                                                                                               | Slides                                                                                                                    |
 |-------------------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 14th November 2021      | [.NET Conf 2020](https://www.dotnetconf.net/) | [dotnetconf2020 tag](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/tag/dotnetconf2020) | [PowerPoint Deck](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) |
+| 12th November 2021      | [.NET Conf 2020](https://www.dotnetconf.net/) | [dotnetconf2020 tag](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/tag/dotnetconf2020) | [PowerPoint Deck](https://github.com/gep13-talks/BiteSizeCakeDemos/releases/download/dotnetconf2020/a-piece-of-cake.pptx) |
 
 ## Recordings
 
